@@ -4,3 +4,5 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 edit by master
 add new info
 clone之后的修改
+远程仓库修改aaa.txt
+看pull是否有错误
